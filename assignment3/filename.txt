@@ -1,0 +1,3 @@
+Welcome to the course COMP216, 
+There is nothing here 
+Except the course code.
